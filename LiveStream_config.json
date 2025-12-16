@@ -1,10 +1,43 @@
 {
-  "accound_Id": "6415818918001",
-  "mobileProd": "6384389158112",
-  "mobileNonProd": "6384389158112",
-  "cameraProd": "6384085229112",
-  "cameraNonProd": "6384389158112",
-  "state": "live",
-  "prePostContentType": 2,
-  "prePostcontentURL": "https://cdn.pixabay.com/video/2024/08/16/226795_large.mp4"
+  "camera": {
+    "prod": {
+      "videoId": "6384389158112",
+      "state": "live",
+      "languages": {
+        "en": {
+          "mediaType": "image",
+          "mediaUrl": "",
+          "mediaTitle": "",
+          "mediaLoop": true
+        },
+        "it": {
+          "mediaType": "imageTitle",
+          "mediaUrl": "",
+          "mediaTitle": "",
+          "mediaLoop": true
+        }
+      }
+    },
+    "nonProd": {}
+  },
+  "mobile": {
+    "prod": {
+      "videoId": "6384085229112",
+      "state": "preLive",
+      "languages": {
+        "en": {
+          "mediaType": "image",
+          "mediaUrl": "",
+          "mediaTitle": "",
+          "mediaLoop": true
+        },
+        "it": {
+          "mediaType": "imageTitle",
+          "mediaUrl": "",
+          "mediaTitle": "",
+          "mediaLoop": true
+        }
+      }
+    }
+  }
 }
