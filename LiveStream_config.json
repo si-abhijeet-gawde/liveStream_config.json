@@ -4,6 +4,7 @@
   "mobileNonProd": "6384389158112",
   "cameraProd": "6384085229112",
   "cameraNonProd": "6384389158112",
-  "state" : "live",
-  "prePostContent" : 1
+  "state": "live",
+  "prePostContentType": 1,
+  "prePostcontentURL": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg"
 }
