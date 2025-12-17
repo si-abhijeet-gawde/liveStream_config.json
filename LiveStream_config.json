@@ -6,13 +6,19 @@
       "languages": {
         "en": {
           "mediaType": "image",
-          "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
+          "mediaUrl": "",
           "mediaTitle": "",
           "mediaLoop": true
         },
         "it": {
           "mediaType": "imageTitle",
           "mediaUrl": "",
+          "mediaTitle": "",
+          "mediaLoop": true
+        },
+        "kl": {
+          "mediaType": "image",
+          "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
           "mediaTitle": "",
           "mediaLoop": true
         }
