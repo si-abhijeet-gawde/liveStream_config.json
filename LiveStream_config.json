@@ -1,7 +1,7 @@
 {
   "camera": {
     "prod": {
-      "videoId": "6384389158112",
+      "videoId": "6386317292112",
       "state": "live",
       "languages": {
         "en": {
@@ -22,7 +22,7 @@
   },
   "mobile": {
     "prod": {
-      "videoId": "6384085229112",
+      "videoId": "6386375769112",
       "state": "preLive",
       "languages": {
         "en": {
