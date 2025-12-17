@@ -2,20 +2,18 @@
   "camera": {
     "prod": {
       "videoId": "6386317292112",
-      "state": "live",
-      "languages": {
-        "en": {
-          "mediaType": "image",
-          "mediaUrl": "",
-          "mediaTitle": "",
-          "mediaLoop": true
-        },
-        "it": {
-          "mediaType": "imageTitle",
-          "mediaUrl": "",
-          "mediaTitle": "",
-          "mediaLoop": true
-        }
+      "state": "preLive",
+      "en": {
+        "mediaType": "image",
+        "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
+        "mediaTitle": "",
+        "mediaLoop": true
+      },
+      "it": {
+        "mediaType": "imageTitle",
+        "mediaUrl": "",
+        "mediaTitle": "",
+        "mediaLoop": true
       }
     },
     "nonProd": {}
@@ -24,19 +22,17 @@
     "prod": {
       "videoId": "6386375769112",
       "state": "preLive",
-      "languages": {
-        "en": {
-          "mediaType": "image",
-          "mediaUrl": "",
-          "mediaTitle": "",
-          "mediaLoop": true
-        },
-        "it": {
-          "mediaType": "imageTitle",
-          "mediaUrl": "",
-          "mediaTitle": "",
-          "mediaLoop": true
-        }
+      "en": {
+        "mediaType": "image",
+        "mediaUrl": "",
+        "mediaTitle": "",
+        "mediaLoop": true
+      },
+      "it": {
+        "mediaType": "imageTitle",
+        "mediaUrl": "",
+        "mediaTitle": "",
+        "mediaLoop": true
       }
     }
   }
