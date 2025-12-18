@@ -2,7 +2,7 @@
   "camera": {
     "prod": {
       "videoId": "6384389158112",
-      "state": "preLive",
+      "state": "postLive",
       "languages": {
         "en": {
           "mediaType": "image",
