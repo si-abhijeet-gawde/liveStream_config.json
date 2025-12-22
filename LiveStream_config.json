@@ -3,6 +3,11 @@
     "prod": {
       "videoId": "6386591233112",
       "state": "live",
+      "polling": {
+        "preLive": 10,
+        "live": 30,
+        "postLive": 10
+      },
       "locales": {
         "en": {
           "mediaType": "image",
@@ -11,7 +16,7 @@
           "mediaLoop": true
         },
         "it": {
-          "mediaType": "imageTitle",
+          "mediaType": "image",
           "mediaUrl": "",
           "mediaTitle": "",
           "mediaLoop": true
@@ -27,6 +32,11 @@
     "nonProd": {
       "videoId": "6386317292112",
       "state": "preLive",
+      "polling": {
+        "preLive": 10,
+        "live": 30,
+        "postLive": 10
+      },
       "locales": {
         "en": {
           "mediaType": "video",
@@ -53,6 +63,11 @@
     "prod": {
       "videoId": "6386317292112",
       "state": "preLive",
+      "polling": {
+        "preLive": 10,
+        "live": 30,
+        "postLive": 10
+      },
       "locales": {
         "en": {
           "mediaType": "image",
@@ -61,7 +76,7 @@
           "mediaLoop": true
         },
         "it": {
-          "mediaType": "imageTitle",
+          "mediaType": "image",
           "mediaUrl": "",
           "mediaTitle": "",
           "mediaLoop": true
@@ -77,6 +92,11 @@
     "nonProd": {
       "videoId": "6386317292112",
       "state": "preLive",
+      "polling": {
+        "preLive": 10,
+        "live": 30,
+        "postLive": 10
+      },
       "locales": {
         "en": {
           "mediaType": "image",
@@ -85,7 +105,7 @@
           "mediaLoop": true
         },
         "it": {
-          "mediaType": "imageTitle",
+          "mediaType": "image",
           "mediaUrl": "",
           "mediaTitle": "",
           "mediaLoop": true
