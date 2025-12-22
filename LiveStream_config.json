@@ -2,7 +2,7 @@
   "camera": {
     "prod": {
       "videoId": "6386591233112",
-      "state": "postLive",
+      "state": "live",
       "polling": {
         "preLive": 10,
         "live": 30,
