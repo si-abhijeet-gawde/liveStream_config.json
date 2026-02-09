@@ -2,7 +2,7 @@
   "camera": {
     "prod": {
       "videoId": "6386318082112",
-      "state": "live",
+      "state": "postLive",
       "intervals": {
         "preLive": 10,
         "live": 30,
