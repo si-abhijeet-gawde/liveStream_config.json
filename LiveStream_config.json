@@ -47,7 +47,7 @@
       "liveVideoOrientation": "landscape",
       "liveMediaTitle": "",
       "liveMediaSubTitle": "",
-      "state": "postLive",
+      "state": "live",
       "locales": {
         "en": {
           "mediaType": "image",
