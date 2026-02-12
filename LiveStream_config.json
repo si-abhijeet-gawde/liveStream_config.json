@@ -1,122 +1,126 @@
 {
   "camera": {
     "prod": {
-      "videoId": "6386318082112",
+      "liveVideoId": "6386318082112",
+      "liveVideoOrientation": "portrait",
+      "liveMediaTitle": "Marc Gene talks about the Ferrari SF-26 Concept",
+      "liveMediaSubTitle": "The SF-26 is the first car of a new regulatory cycle, which brings movable front aerodynamics into Formula 1 and introduces a much bigger role for hybrid energy in the power unit.",
       "state": "live",
-      "intervals": {
-        "preLive": 10,
-        "live": 30,
-        "postLive": 10
-      },
       "locales": {
         "en": {
           "mediaType": "image",
-          "mediaUrl": "https://images.unsplash.com/photo-1615440321449-83897161d806?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZlcnJhcml8ZW58MHx8MHx8fDA%3D",
-          "mediaTitle": "",
+          "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
+          "mediaTitle": "Amazon Video Title with loop and why not long title playing in loop",
+          "mediaSubTitle": "Amazon Video Sub Title when the video is playing in loop only then we can see the effect of sub title as well",
           "mediaLoop": true
         },
         "it": {
           "mediaType": "image",
           "mediaUrl": "",
           "mediaTitle": "",
-          "mediaLoop": true
+          "mediaSubTitle": "",
+          "mediaLoop": false
         },
-        "kk": {
+        "kl": {
           "mediaType": "image",
           "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
-          "mediaTitle": "check Camera Prod kk",
-          "mediaLoop": true
+          "mediaTitle": "",
+          "mediaSubTitle": "",
+          "mediaLoop": false
+        },
+        "zz": {
+          "mediaType": "image",
+          "mediaUrl": "https://i.pinimg.com/736x/76/8e/8a/768e8a367dc06a61112412f3e31a9a22.jpg",
+          "mediaTitle": "Car Title",
+          "mediaSubTitle": "",
+          "mediaLoop": false
         }
+      },
+      "intervals": {
+        "preLive": 10,
+        "live": 10,
+        "postLive": 20
       }
     },
     "nonProd": {
-      "videoId": "6386317292112",
-      "state": "preLive",
-      "intervals": {
-        "preLive": 10,
-        "live": 30,
-        "postLive": 10
-      },
+      "liveVideoId": "6384389158112",
+      "liveVideoOrientation": "portrait",
+      "liveMediaTitle": "",
+      "liveMediaSubTitle": "",
+      "state": "postLive",
       "locales": {
         "en": {
-          "mediaType": "video",
-          "mediaUrl": "https://cdn.pixabay.com/video/2024/08/16/226795_large.mp4",
-          "mediaTitle": "check check",
-          "mediaLoop": true
+          "mediaType": "image",
+          "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
+          "mediaTitle": "Car Title",
+          "mediaSubTitle": "",
+          "mediaLoop": false
         },
         "it": {
-          "mediaType": "video",
-          "mediaUrl": "https://cdn.pixabay.com/video/2024/08/16/226795_large.mp4",
+          "mediaType": "image",
+          "mediaUrl": "",
           "mediaTitle": "",
-          "mediaLoop": true
+          "mediaSubTitle": "",
+          "mediaLoop": false
         },
-        "kk": {
-          "mediaType": "video",
-          "mediaUrl": "https://cdn.pixabay.com/video/2024/08/16/226795_large.mp4",
+        "kl": {
+          "mediaType": "image",
+          "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
           "mediaTitle": "",
-          "mediaLoop": true
+          "mediaSubTitle": "",
+          "mediaLoop": false
+        },
+        "zz": {
+          "mediaType": "image",
+          "mediaUrl": "https://i.pinimg.com/736x/76/8e/8a/768e8a367dc06a61112412f3e31a9a22.jpg",
+          "mediaTitle": "Non Prod Car Title",
+          "mediaSubTitle": "",
+          "mediaLoop": false
         }
+      },
+      "intervals": {
+        "preLive": 10,
+        "live": 10,
+        "postLive": 10
       }
     }
   },
   "mobile": {
     "prod": {
-      "videoId": "6386317292112",
-      "state": "preLive",
-      "intervals": {
-        "preLive": 10,
-        "live": 30,
-        "postLive": 10
-      },
+      "liveVideoId": "6384085229112",
+      "liveVideoOrientation": "portrait",
+      "liveMediaTitle": "",
+      "liveMediaSubTitle": "",
+      "state": "prelive",
       "locales": {
         "en": {
           "mediaType": "image",
-          "mediaUrl": "https://images.unsplash.com/photo-1615440321449-83897161d806?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZlcnJhcml8ZW58MHx8MHx8fDA%3D",
-          "mediaTitle": "",
-          "mediaLoop": true
+          "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
+          "mediaTitle": "Starting soon abhi",
+          "mediaSubTitle": "",
+          "mediaLoop": false
         },
         "it": {
           "mediaType": "image",
-          "mediaUrl": "",
-          "mediaTitle": "",
-          "mediaLoop": true
+          "mediaUrl": "https://i.pinimg.com/736x/76/8e/8a/768e8a367dc06a61112412f3e31a9a22.jpg",
+          "mediaTitle": "Starting soon narendra",
+          "mediaSubTitle": "",
+          "mediaLoop": false
         },
-        "kk": {
+        "kl": {
           "mediaType": "image",
-          "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
-          "mediaTitle": "",
+          "mediaUrl": "https://i.pinimg.com/736x/76/8e/8a/768e8a367dc06a61112412f3e31a9a22.jpg",
+          "mediaTitle": "Road image",
+          "mediaSubTitle": "",
           "mediaLoop": true
         }
+      },
+      "intervals": {
+        "preLive": 10,
+        "live": 10,
+        "postLive": 10
       }
     },
-    "nonProd": {
-      "videoId": "6386317292112",
-      "state": "preLive",
-      "intervals": {
-        "preLive": 10,
-        "live": 30,
-        "postLive": 10
-      },
-      "locales": {
-        "en": {
-          "mediaType": "image",
-          "mediaUrl": "https://images.unsplash.com/photo-1615440321449-83897161d806?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGZlcnJhcml8ZW58MHx8MHx8fDA%3D",
-          "mediaTitle": "",
-          "mediaLoop": true
-        },
-        "it": {
-          "mediaType": "image",
-          "mediaUrl": "",
-          "mediaTitle": "",
-          "mediaLoop": true
-        },
-        "kk": {
-          "mediaType": "image",
-          "mediaUrl": "https://i.pinimg.com/736x/7a/4a/45/7a4a45ecb7e8254892665d97f82a1706.jpg",
-          "mediaTitle": "",
-          "mediaLoop": true
-        }
-      }
-    }
+    "nonProd": {}
   }
 }
